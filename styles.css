@@ -635,6 +635,7 @@ body{
     padding: flex;
     flex-direction: column;
 }
+
 .contain .contactInfo .box{
     position: relative;
     padding: 20px 0;
